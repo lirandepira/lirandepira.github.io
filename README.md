@@ -6,4 +6,5 @@ More formally, I introduce myself as a computer scientist, and to my advantage, 
 
 I research how quantum machines will learn. This has demanded a strong interdisciplinary approach, fostering collaboration between computer science, physics, and mathematics — essential skills for engaging in the dynamic landscape of quantum AI research. And it will continue to do so.
 
-%### Education
+### Travel
+Upcoming: New Caledonia, Tahiti, Moorea
