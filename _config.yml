@@ -2,5 +2,7 @@ title: Lirandë Pira
 # logo: /attach/images/headshot_circle.png
 # show_downloads: true
 theme: jekyll-theme-minimal
+author:
+  location         : "Sydney, Australia"
 github:
   is_project_page: true
