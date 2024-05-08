@@ -8,4 +8,4 @@ Now I research how quantum machines will learn. This demands a strong interdisci
 
 More broadly, I am interested in deep learning, theoretical machine learning, quantum machine learning, quantum algorithms, and their subsequent disruptive applications.
 
-Within the paradigm of quantum mahcine learning, I argue that quantum machine learning is a branch of machine learning, and not quantum physics. This shift in perspective regarding our approach to quantum machine learning will expand our understanding of how much further AI can go, as well as what we can do with quantum computers.
+Within the paradigm of quantum machine learning, I argue that quantum machine learning is a branch of machine learning, and not quantum physics. This shift in perspective regarding our approach to quantum machine learning will expand our understanding of how much further AI can go, as well as what we can do with quantum computers.
