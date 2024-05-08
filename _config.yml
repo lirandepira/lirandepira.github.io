@@ -1,7 +1,9 @@
 title: Lirandë Pira
-location: "Sydney, Australia"
+# location: "Sydney, Australia"
 logo: /attach/image.png
 # show_downloads: true
 theme: jekyll-theme-minimal
 github:
   is_project_page: true
+author:
+  location         : "Earth"
