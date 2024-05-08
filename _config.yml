@@ -1,8 +1,7 @@
 title: Lirandë Pira
-# logo: /attach/images/image.jpg
+logo: /attach/images/image.jpg
+location: Sydney, Australia
 # show_downloads: true
 theme: jekyll-theme-minimal
-author:
-  location         : "Sydney, Australia"
 github:
   is_project_page: true
