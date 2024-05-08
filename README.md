@@ -1,4 +1,4 @@
-# Research Profile
+## Research Profile
 
 I thrive at intersections of ideas. If you look at my CV (will [Linkedin](https://www.linkedin.com/in/lirandepira/) do?), there is one pattern you will observe: I move a lot. And not only geographically, but also across different fields and patterns of thinking.
 
